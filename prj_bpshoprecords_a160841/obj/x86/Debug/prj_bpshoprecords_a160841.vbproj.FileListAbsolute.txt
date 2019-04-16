@@ -1,0 +1,95 @@
+C:\Users\win7\AppData\Local\Temporary Projects\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\AppData\Local\Temporary Projects\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\AppData\Local\Temporary Projects\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\AppData\Local\Temporary Projects\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_splashscreen_a160841.resources
+C:\Users\win7\AppData\Local\Temporary Projects\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.Resources.resources
+C:\Users\win7\AppData\Local\Temporary Projects\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.vbproj.GenerateResource.Cache
+C:\Users\win7\AppData\Local\Temporary Projects\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\AppData\Local\Temporary Projects\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\AppData\Local\Temporary Projects\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_splashscreen_a160841.resources
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.Resources.resources
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.vbproj.GenerateResource.Cache
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_mainmenu_a160841.resources
+C:\Users\win7\Documents\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_productlist_a160841.resources
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_mainmenu_a160841.resources
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_productlist_a160841.resources
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_splashscreen_a160841.resources
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.Resources.resources
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.vbproj.GenerateResource.Cache
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_customerlist_a160841.resources
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_orderlist_a160841.resources
+C:\Users\win7\Desktop\DB_BP_A160841\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_stafflist_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_customerlist_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_mainmenu_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_orderlist_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_productdetails_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_productlist_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_splashscreen_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_stafflist_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.Resources.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.vbproj.GenerateResource.Cache
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_customerlist_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_mainmenu_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_orderlist_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_productdetails_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_productlist_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_splashscreen_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_stafflist_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.Resources.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.vbproj.GenerateResource.Cache
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_insertproducts_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_mainmenu2_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_insertcustomers_a160841.resources
+C:\Users\win7\Downloads\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_insertstaffs_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_customerlist_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_insertcustomers_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_insertproducts_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_insertstaffs_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_mainmenu2_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_mainmenu_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_orderlist_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_orderproduct_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_productdetails_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_productlist_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_splashscreen_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_stafflist_a160841.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.Resources.resources
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.vbproj.GenerateResource.Cache
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.exe
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.pdb
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\bin\Debug\prj_bpshoprecords_a160841.xml
+C:\Users\win7\Desktop\database\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_invoice_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_insertcustomers_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_insertproducts_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_insertstaffs_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_invoice_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_mainmenu2_a160841.resources
+C:\Users\win7\Desktop\A160841_BP SHOP\prj_bpshoprecords_a160841\prj_bpshoprecords_a160841\obj\x86\Debug\prj_bpshoprecords_a160841.frm_orderproduct_a160841.resources
